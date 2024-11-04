@@ -9,7 +9,8 @@ Due to the lack of data length restrictions of the lan_ipaddr parameter, a buffe
 
 function call chain
 Main()->sub_40B6F0()->start_single_service()->start_lan().
-![alt text](image-4.png)
+![original_1730726039425_91fdc68216966f8db45fdfd6139baaed](https://github.com/user-attachments/assets/59877560-fa0f-4a76-b4c9-b5c65c4e626e)
+
 > Payload
 
 ```html
